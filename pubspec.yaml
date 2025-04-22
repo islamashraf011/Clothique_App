@@ -28,16 +28,12 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
-  # The following adds the Cupertino Icons font to your application.
-    # Use with the CupertinoIcons class for iOS style icons.
-    # Used for the animated text
   animated_text_kit: ^4.2.3
   cupertino_icons: ^1.0.8
   flutter:
     sdk: flutter
-    # For Adapting to different screen sizes & Font sizes
+  flutter_launcher_icons: ^0.14.3
   flutter_screenutil: ^5.9.3
-  # Used for rendering Lottie animations
   lottie: ^3.3.1
 dev_dependencies:
   flutter_lints: ^5.0.0
