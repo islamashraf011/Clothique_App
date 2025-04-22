@@ -5,3 +5,4 @@ import 'clothique_app.dart';
 void main() {
   runApp(Clothique(appRouter: AppRouter()));
 }
+
