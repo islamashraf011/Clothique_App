@@ -6,4 +6,5 @@ class ColorsManager {
   static const Color backgroundColor = Colors.white;
   static const Color textBlackColor = Colors.black;
   static const Color textGreyColor = Colors.grey;
+  static const Color onBoardingButtonColor = Color(0xffA1B7D6);
 }
