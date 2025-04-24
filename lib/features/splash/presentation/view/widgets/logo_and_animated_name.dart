@@ -18,7 +18,7 @@ class LogoAndAnimatedName extends StatelessWidget {
           animatedTexts: [
             WavyAnimatedText(
               'CLOTHIQUE',
-              textStyle: TextStyles.splashFont40BlackCinzel,
+              textStyle: TextStyles.splashFont32BlackBoldCinzel,
             ),
           ],
         ),
