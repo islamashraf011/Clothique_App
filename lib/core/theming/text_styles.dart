@@ -34,8 +34,9 @@ class TextStyles {
     color: ColorsManager.textGreyColor,
   );
 
-  static TextStyle splashFont40BlackCinzel = TextStyle(
-    fontSize: 40.sp,
+  static TextStyle splashFont32BlackBoldCinzel = TextStyle(
+    fontSize: 32.sp,
+    fontWeight: FontWeight.bold,
     fontFamily: Constants.splashCinzelFont,
     color: ColorsManager.textBlackColor,
   );
